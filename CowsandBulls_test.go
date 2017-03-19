@@ -7,7 +7,7 @@ package CowsandBulls
 
 import(
 "testing"
-"github.com/balaweblog/CowsandBulls" 
+"CowsandBulls" 
 "fmt")
 
 var (
