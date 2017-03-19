@@ -3,7 +3,7 @@
 - copyright -http://balaweblog.com
 */
 
-package CowsandBullstest
+package CowsandBulls
 
 import(
 "testing"
